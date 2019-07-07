@@ -15,4 +15,4 @@
  
 ## Screen-Shots
 1. Main page
- ![Main-page](./book-app/Main.jpg)
+ ![Main-page](./todo-app-with-hooks/Main.jpg)
