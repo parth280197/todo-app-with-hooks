@@ -5,17 +5,25 @@ import 'bootstrap/dist/css/bootstrap.css';
 import ToDo from './component/ToDo';
 import InputForm from './component/InputForm';
 
+
+
 function App() {
+
+  const cardStyle = {
+    width: '50%',
+    margin: 'auto',
+  }
+
   const [todo, setTodo] = useState([{
-      text: "Learn about React",
+      text: "Learn React",
       isCompleted: false,
     },
     {
-      text: "Meet friend for lunch",
+      text: "Learn Data-structure",
       isCompleted: false,
     },
     {
-      text: "Build really cool todo app",
+      text: "Learn React with flux and Redux",
       isCompleted: false,
     }
   ]);
@@ -41,7 +49,16 @@ function App() {
   }
 
   return ( <
-    > {
+    div className = "card mt-3"
+    style = {
+      cardStyle
+    } >
+    <
+    div class = "card-header" >
+    <
+    h1 > ToDo List < /h1> <
+    /div> <
+    ul className = "list-group list-group-flush" > {
       todo.map((todo, index) => ( <
         ToDo key = {
           index
@@ -61,11 +78,13 @@ function App() {
         />
       ))
     } <
-    InputForm addTodo = {
+    li class = "list-group-item" > < InputForm addTodo = {
       addTodo
     }
-    /> <
-    />
+    /></li >
+    <
+    /ul> <
+    /div>
   );
 }
 

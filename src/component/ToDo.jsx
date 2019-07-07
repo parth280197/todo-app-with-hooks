@@ -8,7 +8,7 @@ export default function ToDo(props) {
     props.deleteToDo(index);
   };
   return (
-    <div>
+    <li class="list-group-item">
       <div
         style={{ textDecoration: props.todo.isCompleted ? "line-through" : "" }}
       >
@@ -17,13 +17,15 @@ export default function ToDo(props) {
       <input
         type="button"
         value="Completed"
+        className="btn btn-success m-1"
         onClick={() => completeToDo(props.index)}
       />
       <input
         type="button"
         value="Delete"
+        className="btn btn-danger m-1"
         onClick={() => removeToDo(props.index)}
       />
-    </div>
+    </li>
   );
 }

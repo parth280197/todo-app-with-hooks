@@ -14,9 +14,10 @@ export default function InputForm(props) {
     <form onSubmit={submitHandler}>
       <input
         type="text"
-        className="input"
+        className="form-control m-1"
         value={value}
         onChange={e => setValue(e.target.value)}
+        placeholder="Enter new ToDo"
       />
     </form>
   );
