@@ -15,4 +15,4 @@
  
 ## Screen-Shots
 1. Main page
- ![Main-page](./book-app/main.jpg)
+ ![Main-page](./book-app/Main.jpg)
