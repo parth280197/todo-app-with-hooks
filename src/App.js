@@ -4,8 +4,9 @@ import React, {
 import 'bootstrap/dist/css/bootstrap.css';
 import ToDo from './component/ToDo';
 import InputForm from './component/InputForm';
-
-
+import '@fortawesome/fontawesome-free/css/all.min.css';
+import 'bootstrap-css-only/css/bootstrap.min.css';
+import 'mdbreact/dist/css/mdb.css';
 
 function App() {
 
@@ -55,6 +56,8 @@ function App() {
     } >
     <
     div class = "card-header" >
+    <
+    i className = "glyphicon glyphicon-ok" / >
     <
     h1 > ToDo List < /h1> <
     /div> <

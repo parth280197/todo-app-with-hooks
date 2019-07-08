@@ -1,5 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
+import { MDBIcon } from "mdbreact";
+
 export default function ToDo(props) {
   const completeToDo = index => {
     props.markCompleted(index);
@@ -14,16 +16,17 @@ export default function ToDo(props) {
       >
         {props.todo.text}
       </div>
-      <input
-        type="button"
-        value="Completed"
-        className="btn btn-success m-1"
+
+      <MDBIcon
+        icon="check"
+        className="m-1"
+        size="lg"
+        style={{ color: "green", cursor: "pointer" }}
         onClick={() => completeToDo(props.index)}
       />
-      <input
-        type="button"
-        value="Delete"
-        className="btn btn-danger m-1"
+      <i
+        className="fas fa-trash-alt m-1"
+        style={{ color: "red", cursor: "pointer" }}
         onClick={() => removeToDo(props.index)}
       />
     </li>
