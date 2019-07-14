@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/TODO/public/index.html/static/js/main.edb902d9.chunk.js",
-    "main.js.map": "/TODO/public/index.html/static/js/main.edb902d9.chunk.js.map",
-    "runtime~main.js": "/TODO/public/index.html/static/js/runtime~main.4bbe0f83.js",
-    "runtime~main.js.map": "/TODO/public/index.html/static/js/runtime~main.4bbe0f83.js.map",
-    "static/css/2.9cb9357a.chunk.css": "/TODO/public/index.html/static/css/2.9cb9357a.chunk.css",
-    "static/js/2.2eb7ae82.chunk.js": "/TODO/public/index.html/static/js/2.2eb7ae82.chunk.js",
-    "static/js/2.2eb7ae82.chunk.js.map": "/TODO/public/index.html/static/js/2.2eb7ae82.chunk.js.map",
-    "index.html": "/TODO/public/index.html/index.html",
-    "precache-manifest.2b8bf205bee7cb96941b202cabfcf49d.js": "/TODO/public/index.html/precache-manifest.2b8bf205bee7cb96941b202cabfcf49d.js",
-    "service-worker.js": "/TODO/public/index.html/service-worker.js",
-    "static/css/2.9cb9357a.chunk.css.map": "/TODO/public/index.html/static/css/2.9cb9357a.chunk.css.map",
-    "static/media/mdb.css": "/TODO/public/index.html/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/TODO/public/index.html/static/media/fa-solid-900.f14c3b2f.ttf"
+    "main.js": "./static/js/main.edb902d9.chunk.js",
+    "main.js.map": "./static/js/main.edb902d9.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/css/2.b8c10256.chunk.css": "./static/css/2.b8c10256.chunk.css",
+    "static/js/2.2eb7ae82.chunk.js": "./static/js/2.2eb7ae82.chunk.js",
+    "static/js/2.2eb7ae82.chunk.js.map": "./static/js/2.2eb7ae82.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.9c101a0f1c33f5c8f9b941d9d8310daf.js": "./precache-manifest.9c101a0f1c33f5c8f9b941d9d8310daf.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.b8c10256.chunk.css.map": "./static/css/2.b8c10256.chunk.css.map",
+    "static/media/mdb.css": "./static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "./static/media/fa-solid-900.f14c3b2f.ttf"
   }
 }
