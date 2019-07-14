@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/public/index.html/static/js/main.edb902d9.chunk.js",
-    "main.js.map": "/public/index.html/static/js/main.edb902d9.chunk.js.map",
-    "runtime~main.js": "/public/index.html/static/js/runtime~main.cc6e7a77.js",
-    "runtime~main.js.map": "/public/index.html/static/js/runtime~main.cc6e7a77.js.map",
-    "static/css/2.29e37566.chunk.css": "/public/index.html/static/css/2.29e37566.chunk.css",
-    "static/js/2.2eb7ae82.chunk.js": "/public/index.html/static/js/2.2eb7ae82.chunk.js",
-    "static/js/2.2eb7ae82.chunk.js.map": "/public/index.html/static/js/2.2eb7ae82.chunk.js.map",
-    "index.html": "/public/index.html/index.html",
-    "precache-manifest.047ae786656d4b5e1f22cf74decf32ab.js": "/public/index.html/precache-manifest.047ae786656d4b5e1f22cf74decf32ab.js",
-    "service-worker.js": "/public/index.html/service-worker.js",
-    "static/css/2.29e37566.chunk.css.map": "/public/index.html/static/css/2.29e37566.chunk.css.map",
-    "static/media/mdb.css": "/public/index.html/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/public/index.html/static/media/fa-solid-900.f14c3b2f.ttf"
+    "main.js": "/home/static/js/main.209dc29c.chunk.js",
+    "main.js.map": "/home/static/js/main.209dc29c.chunk.js.map",
+    "runtime~main.js": "/home/static/js/runtime~main.0990ee84.js",
+    "runtime~main.js.map": "/home/static/js/runtime~main.0990ee84.js.map",
+    "static/css/2.92da0e52.chunk.css": "/home/static/css/2.92da0e52.chunk.css",
+    "static/js/2.2eb7ae82.chunk.js": "/home/static/js/2.2eb7ae82.chunk.js",
+    "static/js/2.2eb7ae82.chunk.js.map": "/home/static/js/2.2eb7ae82.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.ccd2469c5ba3950641d3916c01fe9df9.js": "/home/precache-manifest.ccd2469c5ba3950641d3916c01fe9df9.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/2.92da0e52.chunk.css.map": "/home/static/css/2.92da0e52.chunk.css.map",
+    "static/media/mdb.css": "/home/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/home/static/media/fa-solid-900.f14c3b2f.ttf"
   }
 }
