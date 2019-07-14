@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/TODO/static/js/main.edb902d9.chunk.js",
-    "main.js.map": "/TODO/static/js/main.edb902d9.chunk.js.map",
-    "runtime~main.js": "/TODO/static/js/runtime~main.a00617e9.js",
-    "runtime~main.js.map": "/TODO/static/js/runtime~main.a00617e9.js.map",
-    "static/css/2.e59934b3.chunk.css": "/TODO/static/css/2.e59934b3.chunk.css",
-    "static/js/2.2eb7ae82.chunk.js": "/TODO/static/js/2.2eb7ae82.chunk.js",
-    "static/js/2.2eb7ae82.chunk.js.map": "/TODO/static/js/2.2eb7ae82.chunk.js.map",
-    "index.html": "/TODO/index.html",
-    "precache-manifest.08744f1d8db95ec1b30bf7890f6f0654.js": "/TODO/precache-manifest.08744f1d8db95ec1b30bf7890f6f0654.js",
-    "service-worker.js": "/TODO/service-worker.js",
-    "static/css/2.e59934b3.chunk.css.map": "/TODO/static/css/2.e59934b3.chunk.css.map",
-    "static/media/mdb.css": "/TODO/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/TODO/static/media/fa-solid-900.f14c3b2f.ttf"
+    "main.js": "/TODO/public/index.html/static/js/main.edb902d9.chunk.js",
+    "main.js.map": "/TODO/public/index.html/static/js/main.edb902d9.chunk.js.map",
+    "runtime~main.js": "/TODO/public/index.html/static/js/runtime~main.4bbe0f83.js",
+    "runtime~main.js.map": "/TODO/public/index.html/static/js/runtime~main.4bbe0f83.js.map",
+    "static/css/2.9cb9357a.chunk.css": "/TODO/public/index.html/static/css/2.9cb9357a.chunk.css",
+    "static/js/2.2eb7ae82.chunk.js": "/TODO/public/index.html/static/js/2.2eb7ae82.chunk.js",
+    "static/js/2.2eb7ae82.chunk.js.map": "/TODO/public/index.html/static/js/2.2eb7ae82.chunk.js.map",
+    "index.html": "/TODO/public/index.html/index.html",
+    "precache-manifest.2b8bf205bee7cb96941b202cabfcf49d.js": "/TODO/public/index.html/precache-manifest.2b8bf205bee7cb96941b202cabfcf49d.js",
+    "service-worker.js": "/TODO/public/index.html/service-worker.js",
+    "static/css/2.9cb9357a.chunk.css.map": "/TODO/public/index.html/static/css/2.9cb9357a.chunk.css.map",
+    "static/media/mdb.css": "/TODO/public/index.html/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/TODO/public/index.html/static/media/fa-solid-900.f14c3b2f.ttf"
   }
 }
