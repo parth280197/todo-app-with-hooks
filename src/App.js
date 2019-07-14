@@ -11,7 +11,6 @@ import 'mdbreact/dist/css/mdb.css';
 function App() {
 
   const cardStyle = {
-    width: '50%',
     margin: 'auto',
   }
 
@@ -50,7 +49,7 @@ function App() {
   }
 
   return ( <
-    div className = "card mt-3"
+    div className = "card m-3"
     style = {
       cardStyle
     } >
@@ -59,8 +58,8 @@ function App() {
     <
     i className = "glyphicon glyphicon-ok" / >
     <
-    h1 > ToDo List < /h1> <
-    /div> <
+    h1 > ToDo List < /h1> < /
+    div > <
     ul className = "list-group list-group-flush" > {
       todo.map((todo, index) => ( <
         ToDo key = {
@@ -86,8 +85,8 @@ function App() {
     }
     /></li >
     <
-    /ul> <
-    /div>
+    /ul> < /
+    div >
   );
 }
 
