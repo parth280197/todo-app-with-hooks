@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/home/static/js/main.209dc29c.chunk.js",
-    "main.js.map": "/home/static/js/main.209dc29c.chunk.js.map",
-    "runtime~main.js": "/home/static/js/runtime~main.0990ee84.js",
-    "runtime~main.js.map": "/home/static/js/runtime~main.0990ee84.js.map",
-    "static/css/2.92da0e52.chunk.css": "/home/static/css/2.92da0e52.chunk.css",
-    "static/js/2.2eb7ae82.chunk.js": "/home/static/js/2.2eb7ae82.chunk.js",
-    "static/js/2.2eb7ae82.chunk.js.map": "/home/static/js/2.2eb7ae82.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.ccd2469c5ba3950641d3916c01fe9df9.js": "/home/precache-manifest.ccd2469c5ba3950641d3916c01fe9df9.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/2.92da0e52.chunk.css.map": "/home/static/css/2.92da0e52.chunk.css.map",
-    "static/media/mdb.css": "/home/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/home/static/media/fa-solid-900.f14c3b2f.ttf"
+    "main.js": "/todo-app-with-hooks/static/js/main.209dc29c.chunk.js",
+    "main.js.map": "/todo-app-with-hooks/static/js/main.209dc29c.chunk.js.map",
+    "runtime~main.js": "/todo-app-with-hooks/static/js/runtime~main.16109021.js",
+    "runtime~main.js.map": "/todo-app-with-hooks/static/js/runtime~main.16109021.js.map",
+    "static/css/2.b000158b.chunk.css": "/todo-app-with-hooks/static/css/2.b000158b.chunk.css",
+    "static/js/2.2eb7ae82.chunk.js": "/todo-app-with-hooks/static/js/2.2eb7ae82.chunk.js",
+    "static/js/2.2eb7ae82.chunk.js.map": "/todo-app-with-hooks/static/js/2.2eb7ae82.chunk.js.map",
+    "index.html": "/todo-app-with-hooks/index.html",
+    "precache-manifest.aba1873e10de6b22d57839c13eedb4cd.js": "/todo-app-with-hooks/precache-manifest.aba1873e10de6b22d57839c13eedb4cd.js",
+    "service-worker.js": "/todo-app-with-hooks/service-worker.js",
+    "static/css/2.b000158b.chunk.css.map": "/todo-app-with-hooks/static/css/2.b000158b.chunk.css.map",
+    "static/media/mdb.css": "/todo-app-with-hooks/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/todo-app-with-hooks/static/media/fa-solid-900.f14c3b2f.ttf"
   }
 }
